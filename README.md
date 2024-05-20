@@ -1,0 +1,3 @@
+This project focuses on the classification of musical genres by analyzing song lyrics. Musical genre classification is a significant challenge in the field of natural language processing (NLP), with numerous applications such as music recommendation systems and the organization of digital music libraries. In this study, a classifier based on the \textit{Naive Bayes} algorithm has been chosen for its efficiency, simplicity, and effectiveness in handling text data.
+
+The primary goal of this work is to design, implement, and evaluate a model for musical genre classification using the Naive Bayes algorithm in conjunction with cross-validation techniques. 
